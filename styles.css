@@ -19,7 +19,7 @@ body {
     width: min-content;
     gap: 20px;
 }
-p {
+h1, h2 {
     text-align: center;
     margin: 0;
     font-size: 15px;
